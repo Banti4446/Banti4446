@@ -2,7 +2,7 @@
 - 🤩 Pronouns, He/Him
 - 👀 I’m interested in Software Engineering
 - 🔊 Lets talk about Tech stuff
-- 🌱 I’m currently learning to be a Full Stack Dveleoper
+- 🔭 Currently immersing myself in learning all things, tackling LeetCode challenges, delving into open-source projects and cherishing communities and to be a Full Stack Dveleoper
 - 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me jansan4446@gmail.com
 - 😉 Know more about me here https://www.linkedin.com/in/banti-m/
