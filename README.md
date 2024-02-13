@@ -1,3 +1,5 @@
+This is the place where I build stuff 👀.
+
 - 👋 Hi, I’m @Banti Mekala
 - 🤩 Pronouns, He/Him
 - 👀 I’m interested in Software Engineering
